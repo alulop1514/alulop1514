@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alulop1514
+- 👋 Hi, I’m Nether
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Java and python
 
